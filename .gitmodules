@@ -1,0 +1,3 @@
+[submodule "MedSam"]
+	path = MedSam
+	url = https://github.com/bowang-lab/MedSAM2
